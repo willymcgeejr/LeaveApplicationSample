@@ -1,4 +1,4 @@
-# LeaveApplicationSample #
+## Leave Application System (Sample Code) ##
 To jump straight to the .java files, [*click here*](https://github.com/willymcgeejr/LeaveApplicationSample/tree/master/leaveappmaven/src/main/java/willmcg)!
 ---
 #### This repository contains sample code for one of the faces of an application suite that allows organization employees to submit leave requests to their managers internally. The bulk of the work is done by the ApplicationController class.
